@@ -89,6 +89,7 @@ Espresso Name Service (ENS) lets users register human-readable usernames like `a
 | ValidatorWalletCreator    | `0xB7cd7D0D977AC2461bfF9a2Edb6C8d58c6592Cc1` |
 
 >  All deployed at block number: `136005921`
+> CreateRollup Transaction Hash: 0x89ccb8b663f66e21965622c8b03f84e970906dbe849057400e7d7d4d872fd30a
 
 RollupProxy at 0x36F17a94501d3a6418C26bD0a9dC511715412378
 
